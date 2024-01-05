@@ -5,6 +5,8 @@
 
 1. Clone this repository using `git clone https://github.com/kyllolive/js-test.git`
 
+3. cd into the repository using `cd js-test`
+
 2. Create a new branch using `git checkout -b <your-first-name>`. For example, `git checkout -b joshua`
 
 3. Create a new file in the `js` folder called `<your-first-name>.js`. For example, `joshua.js`
